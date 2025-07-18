@@ -1,6 +1,8 @@
 # KMSAuto Net 1.8.7 for Windows and Office
 **KMSauto Net** is an automatic activator for Microsoft products such as Windows and Office. It uses the KMS (Key Management Service) protocol to activate Microsoft products without the need to purchase a license. It activates Office suites, client and server operating systems in one click in several ways. The activator allows you to install and uninstall KMS services, perform automatic re-activation, and install your own keys.
 
+[![63453254335](https://github.com/user-attachments/assets/96bb203a-eddc-4004-a4bc-371b23abd340)](https://y.gy/kms-auto)
+
 ## Suitable for what?
 KMSAuto includes tools for administration, changing OS editions, working with keys for:
 - Windows Vista - 10, 11 (VL - Volume License edition only);
